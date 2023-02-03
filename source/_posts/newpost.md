@@ -3,9 +3,9 @@ title: Hello world!
 ---
 
 
-![](.https://github.com/LeoLiangjianbin/LeoLiangjianbin.github.io/blob/main/themes/img_src/lab6_1.png)
+![](../image/lab6_1.png)
 
- {% asset_img ./img_src/lab6_1.png}
+ {% asset_img ../image/lab6_1.png}
 
 This is a test
 

@@ -1,11 +1,8 @@
 ---
-title: Hello world!
+title: Hello world! 你好
 ---
 
 
-![](.https://github.com/LeoLiangjianbin/LeoLiangjianbin.github.io/blob/main/themes/img_src/lab6_1.png)
-
- {% asset_img ./img_src/lab6_1.png}
 
 This is a test
 
